@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hlembeck
-- 👀 I’m interested in low-level programming, algorithms, and algebra.
+- 👀 I’m interested in programming, algorithms, and algebra.
 - 🌱 I’m currently learning C, networking, NodeJS, and ReactJS.
 - 💞️ I’m looking to collaborate on anything I can!
 - 📫 How to reach me: 
